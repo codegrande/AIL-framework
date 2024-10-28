@@ -100,3 +100,4 @@ requests
 #https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/adns-python/adns-python-1.2.1.tar.gz
 #https://github.com/trolldbois/python3-adns/archive/master.zip
 #https://github.com/trolldbois/python-cymru-services/archive/master.zip
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
